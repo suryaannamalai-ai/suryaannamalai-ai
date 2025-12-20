@@ -88,7 +88,7 @@ I focus on **shipping real solutions**, not just learning tools.
 ---
 
 ## ⚡ Quick Facts  
-- 🌍 From **Nagercoil, India**  
+- 🌍 From **Tamilnadu, India**  
 - 🧠 Focused on **AI, automation & prompt engineering**  
 - ☕ Powered by coffee, curiosity & clean systems  
 
