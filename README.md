@@ -1,46 +1,73 @@
 # 👋 Hey, I'm Surya Annamalai  
 
-💻 **AI | Cloud | Automation | Prompt Engineering Developer**  
-🚀 Passionate about building intelligent, future-ready digital solutions  
-🧠 Exploring AI, Cloud Computing, Prompt Design, and Automation daily  
-🌱 Currently learning advanced AI integrations & real-world automation workflows  
-💬 Ask me about: AI automation, cloud apps, prompt engineering, n8n workflows, or creative tech ideas  
+🤖 **AI & Automation Engineer | Prompt Engineering Enthusiast**  
+🚀 Building intelligent, automation-first solutions for real-world problems  
+🧠 Exploring AI agents, workflow automation, prompt design & scalable AI systems  
+🌱 Currently learning advanced AI integrations & production-ready automation  
+
+💬 Ask me about:  
+**AI automation • n8n workflows • OpenAI API • prompt engineering • AI agents**
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Core Tech Stack (AI-FIRST)
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| 💻 **Languages** | Python, JavaScript, C |
-| ⚙️ **Frameworks** | Node.js, Express.js, React.js |
-| ☁️ **Cloud & Hosting** | Google Cloud, Firebase, Vercel, Netlify |
-| 🧠 **AI / ML Tools** | OpenAI API, LangChain, TensorFlow, Gemini |
-| 🧩 **Prompt Engineering** | ChatGPT, GPT-5, Midjourney, Firefly, DALL·E, Gemini |
-| 🔧 **Automation** | n8n, Zapier, Google Sheets API |
-| 🎨 **Design Tools** | Figma, Canva, Procreate, Adobe Firefly |
-| 🗃️ **Databases** | MongoDB, Firebase, MySQL |
-| 🧰 **Version Control** | Git, GitHub, GitHub Actions |
+### 🧠 Programming
+- Python  
+
+### 🤖 AI & Prompt Engineering
+- OpenAI API  
+- GPT-5  
+- ChatGPT  
+- Gemini  
+- LangChain  
+- TensorFlow *(Basics)*  
+
+### 🔧 Automation
+- n8n  
+- Zapier  
+- Google Sheets API  
+- Webhooks & API integrations  
+
+### ☁️ Cloud & Backend (Support)
+- Firebase  
+- Google Cloud  
+- Node.js  
+
+### 🗃️ Databases
+- MongoDB  
+- MySQL  
+
+### 🧰 Dev Tools
+- Git  
+- GitHub  
+- GitHub Actions  
 
 ---
 
 ## 🚀 Projects Showcase  
 
-### 🔹 **Aira – AI WhatsApp Assistant**
-> 🤖 Smart AI agent that chats with clients, collects leads, and syncs with Google Sheets  
-> 💡 Tech: Node.js, Express, OpenAI API, Google Sheets API  
-
-### 🔹 **Interactive Org Chart (Hackathon Project)**
-> 🧭 Dynamic web app to visualize teams & hierarchies with drag-and-drop nodes  
-> 💡 Tech: React, D3.js, Node.js, MongoDB  
-
-### 🔹 **Prompt Engineering Portfolio**
-> 🎯 A curated collection of advanced prompts designed for ChatGPT, Gemini & DALL·E  
-> 💡 Category: AI Automation, Marketing, Design, Coding, Creativity  
+### 🔹 Aira – AI WhatsApp Assistant  
+🤖 AI agent that chats with users, captures leads, and syncs data automatically  
+⚙️ **Focus:** AI automation & lead management  
+🛠 OpenAI API • n8n • Google Sheets API  
 
 ---
 
-## 🌟 GitHub Stats  
+### 🔹 Interactive Org Chart (Hackathon Project)  
+🧭 Visual tool to manage and understand organizational hierarchies  
+⚙️ **Focus:** Automation-friendly data visualization  
+🛠 MongoDB • Node.js  
+
+---
+
+### 🔹 Prompt Engineering Portfolio  
+🎯 High-quality prompts designed for automation, marketing, and productivity  
+⚙️ **Focus:** Practical prompt systems, not theory  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryaannamalai-ai&show_icons=true&theme=tokyonight" width="48%" />
@@ -49,40 +76,44 @@
 
 ---
 
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/suryaannamalai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/surya.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/surya_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@suryatech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
----
-
 ## 🧭 About Me  
 
-🎯 I believe in combining **AI, creativity, and automation** to solve real-world problems.  
-💡 My goal is to build tools that make technology more human-friendly and useful.  
-🔥 Constant learner | Builder | Dreamer | Prompt Engineer  
+I believe in combining **AI + automation** to remove repetitive work and build systems that actually help people.  
+I focus on **shipping real solutions**, not just learning tools.
 
-> “Discipline builds brands, not luck.”_  
+🔥 Builder mindset | Consistent learner | Automation-first thinking  
+
+> *Discipline builds brands, not luck.*
 
 ---
 
 ## ⚡ Quick Facts  
 - 🌍 From **Nagercoil, India**  
-- 🧠 Interested in **AI + Cloud + Automation + Prompt Engineering**  
-- 🕹️ Love creating digital experiences that *actually help people*  
-- ☕ Runs on coffee, code & creativity  
+- 🧠 Focused on **AI, automation & prompt engineering**  
+- ☕ Powered by coffee, curiosity & clean systems  
 
 ---
 
-## 🧑‍💻 Pronouns  
-**he/him**
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/suryaannamalai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/surya.ai">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/surya_codes">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@suryatech">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🪄 Footer  
-> 💬 *“Dream it. Code it. Automate it.”*  
-> — Surya Annamalai
+
+> *Dream it. Build it. Automate it.*  
+> — **Surya Annamalai**
