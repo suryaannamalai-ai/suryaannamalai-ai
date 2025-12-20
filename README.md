@@ -97,10 +97,10 @@ I focus on **shipping real solutions**, not just learning tools.
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/suryaannamalai">
+  <a href="https://www.linkedin.com/in/surya-annamalai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/surya.ai">
+  <a href="https://www.instagram.com/surya.zs__?igsh=NWFvamp5N2JybzJ1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/surya_codes">
